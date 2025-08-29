@@ -1,0 +1,17 @@
+# Ignore data, models, and virtual environment
+venv/
+data/
+models/
+results/
+.kaggle/
+*.keras
+*.h5
+*.ckpt
+*.pth
+*.zip
+*.tar.gz
+*.tar
+*.npz
+*.npy
+.DS_Store
+.ipynb_checkpoints/
