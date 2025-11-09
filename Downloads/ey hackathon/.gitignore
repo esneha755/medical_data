@@ -1,0 +1,38 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (if you don't want to track large datasets)
+# *.csv
+# *.json
+
+# Logs
+*.log
+
+# System files
+../../*
+../*

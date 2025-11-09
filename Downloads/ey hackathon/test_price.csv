@@ -1,0 +1,7 @@
+test_code,test_name,cost_type,cost_value
+INS,Insulation Resistance,per_unit,10.0
+HV,High Voltage Test,per_unit,15.0
+OHM,Continuity/Ohm Test,per_unit,5.0
+MECH,Mechanical Test,per_unit,8.0
+SITE_ACCEPT,Site Acceptance Support,per_job,2000.0
+CERT,Certification Fee,per_job,5000.0

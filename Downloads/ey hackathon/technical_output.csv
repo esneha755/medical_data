@@ -1,0 +1,4 @@
+rfp_item,recommended_sku,quantity,tests_required
+Copper wire 2.5mm,FIN-A1-2.5,1000,INS|HV|SITE_ACCEPT
+Copper wire 2.5mm (alt),POL-B3-2.5,500,INS|OHM
+Power cable 4.0mm,FIN-A1-4.0,200,MECH|CERT|SITE_ACCEPT

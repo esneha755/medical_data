@@ -1,0 +1,11 @@
+{
+  "pricing_table_rows": 3,
+  "aggregates": {
+    "subtotal_material_value": 217500.0,
+    "subtotal_tests_allocated_per_unit_sum": 43100.0,
+    "subtotal_tests_per_job_total": 9000.0,
+    "grand_total_price": 354222.26
+  },
+  "errors": [],
+  "pricing_table_csv": "pricing_outputs\\pricing_table.csv"
+}
